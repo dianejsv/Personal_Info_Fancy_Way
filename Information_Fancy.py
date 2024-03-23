@@ -7,6 +7,7 @@ import time
 # Prompt the user to enter name
 name = input("Enter your name: ")
 # Prompt the user to enter age
+age = input("Enter your age: ")
 # Prompt the user to enter dream job
 # Prompt the user to enter contact number
 # Prompt the user to enter the city
