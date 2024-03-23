@@ -11,6 +11,7 @@ age = input("Enter your age: ")
 # Prompt the user to enter dream job
 dream_job = input("What's your dream job? ")
 # Prompt the user to enter contact number
+contact_number = input("Enter your Contact Number: ")
 # Prompt the user to enter the city
 # Generating fancy ASCII art for user's information
 # Applying color to the generated ASCII art text
