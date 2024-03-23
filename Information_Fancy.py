@@ -26,7 +26,7 @@ fancy_text_city_you_live_in = pyfiglet.figlet_format(city_you_live_in, font="sta
 colored_fancy_name = Fore.LIGHTCYAN_EX + fancy_text_name + Fore.RESET
 colored_fancy_age = Fore.MAGENTA + fancy_text_age + Fore.RESET
 colored_fancy_dream_job = Fore.LIGHTCYAN_EX + fancy_text_dream_job + Fore.RESET
-colored_fancy_contact_number = Fore.LIGHTMAGENTA_EX + fancy_text_dream_job + Fore.RESET
+colored_fancy_contact_number = Fore.LIGHTMAGENTA_EX + fancy_text_contact_number + Fore.RESET
 colored_city_you_live_in = Fore.LIGHTCYAN_EX + fancy_text_city_you_live_in + Fore.RESET
 
 # Printing user's information together with ASCII art and color
