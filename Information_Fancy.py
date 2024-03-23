@@ -9,7 +9,7 @@ name = input("Enter your name: ")
 # Prompt the user to enter age
 age = input("Enter your age: ")
 # Prompt the user to enter dream job
-dream_job = input("What's your dream job?: ")
+dream_job = input("What's your dream job? ")
 # Prompt the user to enter contact number
 # Prompt the user to enter the city
 # Generating fancy ASCII art for user's information
