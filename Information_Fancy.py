@@ -1,4 +1,7 @@
 # Importing necessary modules
+import pyfiglet
+from colorama import Fore
+import time
 
 # Asking for the user input
 # Generating fancy ASCII art for user's information
