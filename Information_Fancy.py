@@ -30,4 +30,25 @@ colored_fancy_contact_number = Fore.LIGHTMAGENTA_EX + fancy_text_dream_job + For
 colored_city_you_live_in = Fore.LIGHTCYAN_EX + fancy_text_city_you_live_in + Fore.RESET
 
 # Printing user's information together with ASCII art and color
+print("Your Information:")
+print("Name: ", end='')
+for char in colored_fancy_name:
+    print(char, end='', flush=True)
+    time.sleep(0.01)
+print("\nAge: ", end='')
+for char in colored_fancy_age:
+    print(char, end='', flush=True)
+    time.sleep(0.01)
+print("\nDream Job: ", end='')
+for char in colored_fancy_dream_job:
+    print(char, end='', flush=True)
+    time.sleep(0.01)
+print("\nContact Number: ", end='')
+for char in colored_fancy_contact_number:
+    print(char, end='', flush=True)
+    time.sleep(0.01)
+print("\nCity: ", end='')
+for char in colored_city_you_live_in:
+    print(char, end='', flush=True)
+    time.sleep(0.01)
 # Printing thank you message
