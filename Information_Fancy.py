@@ -52,3 +52,4 @@ for char in colored_city_you_live_in:
     print(char, end='', flush=True)
     time.sleep(0.01)
 # Printing thank you message
+print("\nThank you for using this program! <3")
